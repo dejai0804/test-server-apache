@@ -1,0 +1,15 @@
+DAY 4 Assignment
+
+1. Create two virtual machines (VM)
+   a. serverA (add user john)
+   b. serverB (add user mary)
+
+2. In john's home directory, touch a file called "new.doc"
+   a. give new.doc 655 permission
+   b. let new.doc belong to HR group
+
+3. Make sure user "mary" can read file "new.doc"  
+
+
+note: Assignment is due 06/06/20 @ 6pm
+

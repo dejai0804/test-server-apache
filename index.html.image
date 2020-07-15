@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>Our Website is under construction</title>
+     </head>
+     <body>
+          Our Website is under construction, but check link for assignments and important messages -->
+     </body>
+     <a href="image.jpg" download="image">
+       <img src="image.jpg" alt="image">
+     </a>
+</html>
+

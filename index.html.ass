@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>Our Website is under construction</title>
+     </head>
+     <body>
+          Our Website is under construction, but check link for assignments and important messages -->
+     </body>
+     <a href="assignment" target="assignment">Click Link</a>
+</html>
+
