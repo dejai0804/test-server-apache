@@ -1,4 +1,14 @@
-apache Virtualhost
+jenkins
+Install and configure Jenkins
 
-set two domains pointing to one IP.
+Step 1 : Download Jenkins war file - https://jenkins.io/ 
+Step 2 : Place the war file into any location on your system  (/opt)
+Step 3 : goto folder where jenkins.war is  and run java -jar jenkins.war 
+Step 4 : goto browser - http://localhost:8080  
+Step 5 : install required plugins 
+Step 6 : get started with Jenkins 
+
+Create our first new job
+
+Integrate with git and deploy to webserver or ftp
 
